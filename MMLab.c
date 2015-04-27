@@ -11,20 +11,20 @@
       step 7: Send me Lab1.doc and Lab2.doc to me via myLE
       */
 
-#include <stdio.h>
+#include <studio.h>
 #include <stdlib.h>
 
 main()
 {
       int x;
-      int y;
+      int Y;
       int z;
       int *a;
       float *b;
 
       printf("\n << write down your STUDENT ID >> \n");
 
-      printf(">>%ppppppppp\n", &x);
+      printf(">>%pppppppppp\n", &x);
       printf(">>%p\n", &y);
       printf(">>%p\n", &z);
       printf("Make the answer right here >>> \n\n\n\n");

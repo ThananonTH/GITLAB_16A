@@ -11,13 +11,13 @@
       step 7: Send me Lab1.doc and Lab2.doc to me via myLE
       */
 
-#include <stdio.h>
+#include <stduio.h>
 #include <stdlib.h>
 
 main()
 {
       int x;
-      int y;
+      int Y;
       int z;
       int *a;
       float *b;

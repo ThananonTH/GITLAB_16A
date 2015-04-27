@@ -11,7 +11,7 @@
       step 7: Send me Lab1.doc and Lab2.doc to me via myLE
       */
 
-#include <stduio.h>
+#include <studio.h>
 #include <stdlib.h>
 
 main()
@@ -24,12 +24,12 @@ main()
 
       printf("\n << write down your STUDENT ID >> \n");
 
-      printf(">>%ppppppppp\n", &x);
+      printf(">>%p\n", &x);
       printf(">>%p\n", &y);
       printf(">>%p\n", &z);
       printf("Make the answer right here >>> \n\n\n\n");
 
-      printf("\nAxxrexx of Pointer\n");
+      printf("\nAddress of Pointer\n");
       printf(">>%p\n", &a);
       printf(">>%p\n", &b);
       printf("Make the answer right here >>> \n\n\n\n");

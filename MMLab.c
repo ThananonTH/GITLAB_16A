@@ -22,7 +22,7 @@ main()
       int *a;
       float *b;
 
-      printf("\n << write down your student ID >> \n");
+      printf("\n << write down your STUDENT ID >> \n");
 
       printf(">>%p\n", &x);
       printf(">>%p\n", &y);
@@ -34,7 +34,7 @@ main()
       printf(">>%p\n", &b);
       printf("Make the answer right here >>> \n\n\n\n");
 
-      printf("\nEffective Address\n");
+      printf("\nEffective ADDress\n");
       printf(">>%p\n", a);
       printf(">>%p\n", b);
       printf("Make the answer right here >>> \n\n\n\n");
